@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37099
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Spielhagen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34599#What-the-Swallow-SangA-Novel
 gutenberg_issued: '2010-12-08'
 gutenberg_type: Text
 identifiers:
